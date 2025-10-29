@@ -1,0 +1,22 @@
+# Xcode
+DerivedData/
+*.xcuserstate
+*.xcworkspace
+*.xcodeproj/project.xcworkspace/
+*.xcproj
+xcuserdata/
+
+# CocoaPods
+Pods/
+
+# Firebase
+GoogleService-Info.plist
+
+# Build
+build/
+*.app
+*.ipa
+
+# Swift Package Manager
+Packages/
+.swiftpm/
